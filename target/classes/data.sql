@@ -1,0 +1,1 @@
+insert into auth values(1,'b.agirdan@emakina.com.tr','123');
